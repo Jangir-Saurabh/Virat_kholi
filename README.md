@@ -42,5 +42,9 @@ For any questions, feel free to connect with me on LinkedIn or open an issue.
 #Power BI #Cricket Analytics #Virat Kohli #Dashboard #Data Visualization #DAX Power Query
 
 📷 Dashboard Preview:
-<img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/002.png" alt="Image Description" width="300", <img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/003.png" alt="Image Description" width="300", <img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/04.png" alt="Image Description" width="300", <img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/06.png" alt="Image Description" width="300",
+<img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/002.png" alt="Image Description" width="300", 
+<img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/003.png" alt="Image Description" width="300", 
+<img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/04.png" alt="Image Description" width="300", 
+<img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/cb40414d1e13524afab5b69545dc7a565958a042/06.png" alt="Image Description" width="300",
+<img src="https://github.com/Jangir-Saurabh/Aw_Furniture_Sales/blob/ba99cf745164b83ba72fe9c0b62dcd60c3e540d2/Screenshot%202025-02-09%20200622.png" alt="Image Description" width="300">,
 
