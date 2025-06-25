@@ -41,7 +41,7 @@ For any questions, feel free to connect with me on LinkedIn or open an issue.
 📌 Tags
 #Power BI #Cricket Analytics #Virat Kohli #Dashboard #Data Visualization #DAX Power Query
 
-📷 Dashboard Preview:
+
 <img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/753f930c321c565e6ef2b1a0f096cdadfbd60ff1/002.png" alt="Image Description" width="300">
 <img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/f7b2ea92e3eaf3290de5f2c1150612c5155d4ca0/003.png" alt="Image Description" width="300">,
 <img src="https://github.com/Jangir-Saurabh/Virat_kholi/blob/f7b2ea92e3eaf3290de5f2c1150612c5155d4ca0/04.png" alt="Image Description" width="300">,
